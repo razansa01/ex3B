@@ -1,4 +1,4 @@
-/* Majd Saad 315685586, Razan Abo alhija 322509118 */
+/* Razan Saad 322391103, Mayar Ghanem 213380694 */
 /* Server profile.js */
 let express = require('express');
 let bodyParser = require('body-parser');
